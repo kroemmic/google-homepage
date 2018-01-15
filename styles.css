@@ -1,0 +1,36 @@
+.center {
+	text-align: center;
+	padding: 10px;
+}
+
+.logo {
+	padding-top: 109px;
+	border-radius: 2px;
+}
+
+.search-buttons {
+	font-weight: bold;
+	font-size: 13px;
+}
+
+.header {
+	position: absolute;
+	color: green;
+	font-size: 12px;
+}
+
+#header-left {
+	margin-top: 3px;
+	padding-left: 10px;
+}
+
+#header-right {
+	position: relative;
+	margin-top: 3px;
+	padding-right: 10px;
+	text-align: right;
+}
+
+body {
+	font-family: helvetica;
+}
